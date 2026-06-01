@@ -8,7 +8,7 @@ vesicles of an onion
 **Procedure Description and Brief Background:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This experiment utilized an optical tweezers system. A highly focused laser beam was used to trap 
-microscopic silica beads in a suspension, creating a restoring force that behaves similarly to a harmonic spring. The position fluctuations of trapped beads due to Brownian motion were measured using a quadrant photodiode (QPD), and both time-domain and frequency-domain analyses were performed. Measurements of particle displacement and power spectra were used to characterize the optical trap and explore the relationship between laser intensity and trap strength.
+microscopic silica beads in a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;suspension, creating a restoring force that behaves similarly to a harmonic spring. The position fluctuations of trapped beads due to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brownian motion were measured using a quadrant photodiode (QPD), and both time-domain and frequency-domain analyses were &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;performed. Measurements of particle displacement and power spectra were used to characterize the optical trap and explore the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;relationship between laser intensity and trap strength.
 
 **Key Findings:**
 
