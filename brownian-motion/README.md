@@ -1,8 +1,9 @@
 **Experimental Goal:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goals of this experiment are to: 1) calibrate and utilize and optical trapping system to measure
-Brownian motion of silica beads 2) experimentally determine the Boltzmann constant 3) apply optical tweezers to manipulate intracellular
-vesicles of an onion
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goals of this experiment are to: 
+1) calibrate and utilize and optical trapping system to measure Brownian motion of silica beads
+2) experimentally determine the Boltzmann constant
+3) apply optical tweezers to manipulate intracellular vesicles of an onion
 	​
 
 **Procedure Description and Brief Background:**
