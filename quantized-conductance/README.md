@@ -14,6 +14,6 @@ fundamental unit of conductance.
 
 **Key Findings:**
 
-&nbsp;&nbsp;&nbsp;I was able to successfully isolate and identify distinct peaks in the conductance of the wires based on an analysis of 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was able to successfully isolate and identify distinct peaks in the conductance of the wires based on an analysis of 
 the voltage data. I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;experimentally confirmed the quantized nature of the atomic-scale gold contact, only differing from the
-theoretical value of conductance by &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;roughly 3.5%. 
+theoretical value of conductance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by roughly 3.5%. 
