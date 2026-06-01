@@ -6,8 +6,10 @@
 **Procedure Description and Brief Background:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two gold wires are brought into contact and then slowly separated while a voltage is applied across the junction.
-As the contact narrows to atomic dimensions, electrons can only travel through a discrete number of quantum transport channels. 
-Instead of changing continuously, the conductance changes in quantized steps corresponding to integer multiples of a 
+As the contact narrows 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to atomic dimensions, electrons can only travel through a discrete number of quantum transport channels. 
+Instead of changing 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;continuously, the conductance changes in quantized steps corresponding to integer multiples of a 
 fundamental unit of conductance.
 
 **Key Findings:**
