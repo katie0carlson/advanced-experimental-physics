@@ -1,5 +1,4 @@
 **Experimental Goals:**
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 1) calibrate and utilize and optical trapping system to measure Brownian motion of silica beads
 2) experimentally determine the Boltzmann constant
