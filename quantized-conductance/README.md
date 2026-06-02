@@ -12,7 +12,7 @@ Instead of changing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;continuously, the conductance changes in quantized steps corresponding to integer multiples of a 
 fundamental unit of conductance.
 
-<img src="./qc-setup-digram.png" width="50%" alt="Experimental Setup Diagram">
+<img src="qc-setup-digram.png" width="50%" alt="Experimental Setup Diagram">
 
 **Key Findings:**
 
