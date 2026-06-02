@@ -12,3 +12,8 @@ recorded as time intervals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in hexadecimal values. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After comparing two different exponential fits, I was able to extract the muon lifetime, experimentally
 determined to be 2.179 ± 0.09 μs, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in excellent agreement with the accepted value of 2.2 μs.
+
+**Experimental Setup Diagram:**
+
+
+![Setup](./muon-setup-diagram.png)
