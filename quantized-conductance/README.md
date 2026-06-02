@@ -18,5 +18,7 @@ fundamental unit of conductance.
 the voltage data. I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;experimentally confirmed the quantized nature of the atomic-scale gold contact, only differing from the
 theoretical value of conductance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by roughly 3.5%. 
 
-**Experimental Setup Diagram**
+**Experimental Setup Diagram:**
+
+
 ![Setup](./qc-setup-diagram.png)
