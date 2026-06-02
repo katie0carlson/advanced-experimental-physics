@@ -12,6 +12,8 @@ Instead of changing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;continuously, the conductance changes in quantized steps corresponding to integer multiples of a 
 fundamental unit of conductance.
 
+![Experimental Setup Diagram](./qc-setup-diagram.png)
+
 **Key Findings:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was able to successfully isolate and identify distinct peaks in the conductance of the wires based on an analysis of 
